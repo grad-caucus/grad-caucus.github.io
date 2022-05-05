@@ -1,4 +1,4 @@
-## About
+## Background
 
 Across the nation, there are millions of graduate researchers at universities conducting groundbreaking work in coordination with federal research agencies and the private sector. They mentor undergraduate students, enrich society through the arts and humanities, and are future leaders in nearly every sector through starting companies and forming a globally competitive workforce. Graduate researchers’ impact on our collective understanding of the world and contribution to strengthening our nation’s economy is often overlooked and understated despite the fact that behind every major breakthrough is a current or former graduate researcher.
 
@@ -36,3 +36,6 @@ Whether you are a Congressional Representative looking to join the caucus or a g
 
 ## Current Members
 Members are actively joining. Full an up-to-date roster, [see here](roster.md).
+
+## Additional Resources
+[Click here for flyers](resources.md), links to outside resources, and other information.
