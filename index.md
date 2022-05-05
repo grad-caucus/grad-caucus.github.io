@@ -9,27 +9,27 @@ The bipartisan GRAD Caucus is led by Representatives Mike Doyle (D-PA-18), Gus B
 ## Objectives
 <img style="float: left;" width="100" height="100" src="/docs/assets/earth.png">
 
-*ENGAGE THE FULL TALENT POOL*
+**ENGAGE THE FULL TALENT POOL**
 
 Ensure accessibility to graduate school for people of all backgrounds including underrepresented minorities, rural students, and international scholars.
 <br clear="left"/>
 
 <img style="float: left;" width="100" height="100" src="/docs/assets/beaker.png">
 
-*SUPPORT AND DEVELOP GRADUATE RESEARCHERS*
+**SUPPORT AND DEVELOP GRADUATE RESEARCHERS**
 
 Improve mentorship and advising, fund fellowships and traineeships, and promote holistic growth and well-being.
 <br clear="left"/>
 
 <img style="float: left;" width="100" height="100" src="/docs/assets/sign.png">
 
-*PROVIDE PATHWAYS FOR FUTURE IMPACT*
+**PROVIDE PATHWAYS FOR FUTURE IMPACT**
 
 Expand opportunities and pathways for these researchers to apply their unique skills to further support society and tackle national challenges post-graduate school.
 <br clear="left"/>
 
 ## Launch Event
-The GRAD Caucus Launch Event will be on July XX in YYYY. For more information, see here.
+The GRAD Caucus Launch Event will be on July XX in YYYY. For more information, [see here](launch-event.md).
 
 ## How to get involved
 Whether you are a Congressional Representative looking to join the caucus or a graduate student interesting in how you can support the caucus, [see here for more information on how to get involved](how-to-get-involved.md).

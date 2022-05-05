@@ -1,15 +1,10 @@
-# How to Get Involved
+# Ask your Representative to Join the Caucus
 
-## Members of Congress
-We are actively recruiting new members to the caucus. There is no membership fee or eligibility requirements, just an interest in supporting graduate student researchers! If that includes you, just contact one of the caucus co-chairs about joining:
+**Step 1:** Use [Find Your Representative](https://www.house.gov/representatives/find-your-representative) to identify who represents you. For graduate students, we recommend looking up both your "home" address (where you grew up, where your parents live, etc.) and your "university" address (where you currently reside as a student).
 
-- Zoe Lofgren (D-CA)
-- Stephanie Bice (R-FL)
-- Gus Bilirakis (R-FL)
-- Mike Doyle (D-PA)
+**Step 2:** Check if your representative has already joined the caucus. We keep an [updated list of the current GRAD Caucus membership here](roster.md). If you see your rep’s name there, you should still consider reaching out to thank them for joining! If they haven’t joined yet, go on to Step 3.
 
-## Graduate Students and Other Members of the Public
-In order to support graduate student researchers, we need involvement from graduate students from across the country. We also welcome support from other members of the public, because the work the graduate students do impacts everyone. At this time there are a few ways to get involved.
-
-### Ask your Representative to Join the Caucus
-The most compelling reason for a member of Congress to join the GRAD Caucus is if they know that it matters to their constituents, so we would love it if you are willing to reach out to your Representative and ask for their support. We provide resources on [how to go about doing that here].
+**Step 3:** Select a medium of communication and contact your representative! Use the link from the [Find Your Representative](https://www.house.gov/representatives/find-your-representative) page to go to the website of your representative. There should be a clearly indicated "Contact" link somewhere on that page. Once there, you have a few different options:
+- **Phone:** Find the phone number of the DC office and give it a call. Once someone answers, explain to them who you are (your name, where you live / are from, that you are a graduate student at X) and that you would like to encourage your representative to join the GRAD Caucus. If you would like to go the extra mile, you can ask who on staff specializes in issues of higher education and research, so that you can talk to them about it in more detail.
+- **Email:** Most offices will have an email form to fill out. Enter your name and information, then paste your email body in. You can use [our template](email-template.md) but be sure to edit it to have the appropriate information. Feel free to add additional arguments, personal stories, or otherwise customize it!
+- **Letter:** Congressional offices do check their mail and often take it more seriously than an email (it’s higher effort, after all!). You can usually find their address on their contact page. If you would like help on what to say, take a look at [our template](letter-template.md)). Feel free to add additional arguments, personal stories, or otherwise customize it!
