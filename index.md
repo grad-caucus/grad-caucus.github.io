@@ -29,7 +29,7 @@ Expand opportunities and pathways for these researchers to apply their unique sk
 <br clear="left"/>
 
 ## Launch Event
-The GRAD Caucus Launch Event will be on July XX in YYYY. For more information, [see here](launch-event.md).
+The GRAD Caucus Launch Event will be on July XX, 2022 at YYYY. For more information, [see here](launch-event.md).
 
 ## How to get involved
 Whether you are a Congressional Representative looking to join the caucus or a graduate student interesting in how you can support the caucus, [see here for more information on how to get involved](how-to-get-involved.md).
