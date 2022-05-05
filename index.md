@@ -7,8 +7,12 @@ Across the nation, there are millions of graduate researchers at universities co
 The bipartisan GRAD Caucus is led by Representatives Mike Doyle (D-PA-18), Gus Bilirakis (R-FL-12), Zoe Lofgren (D-CA-19), and Stephanie Bice (R-OK-5) to highlight the unique and critical role that graduate researchers play in innovation, education, and bolstering our economy. The GRAD Caucus provides briefings on policies and programs important to graduate researchers, connections to graduate researchers performing groundbreaking research across the nation, and a forum for members to advance policy solutions needed to support these researchers as they support society.
 
 ## Objectives
+<img style="float: left;" width="100" height="100" src="/docs/assets/earth.png"> 
 
-![earth](
+*ENGAGE THE FULL TALENT POOL* 
+
+Ensure accessibility to graduate school for people of all backgrounds including underrepresented minorities, rural students, and international scholars.
+<br clear="left"/>
 
 ```markdown
 Syntax highlighted code block
