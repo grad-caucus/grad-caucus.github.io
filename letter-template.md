@@ -4,10 +4,10 @@
 
 [Your Address]
 
-The Honorable [Representative's First & Last Name]
-U.S. House of Representatives
-[Representative's DC Office Address]
-Washington, DC 20515
+The Honorable [Representative's First & Last Name] <br>
+U.S. House of Representatives <br>
+[Representative's DC Office Address] <br>
+Washington, DC 20515 <br>
 
 
 Dear Representative [Last Name],
@@ -18,10 +18,10 @@ As a constituent and a graduate student at _________, I strongly encourage you t
 
 Sincerely,
 
-[Your Name]
-[Your Title (e.g. Masters Student, PhD Student, Doctoral Candidate, etc.)]
-[Your Department/Field]
-[Your Institution/University]
-[Your Address]
-[Your City, State, Zip Code]
-[Your Phone Number]
+[Your Name] <br>
+[Your Title (e.g. Masters Student, PhD Student, Doctoral Candidate, etc.)] <br>
+[Your Department/Field] <br>
+[Your Institution/University] <br>
+[Your Address] <br>
+[Your City, State, Zip Code] <br>
+[Your Phone Number] <br>
