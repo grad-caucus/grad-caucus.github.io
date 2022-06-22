@@ -8,6 +8,8 @@ The Rayburn House Office Building is just south of the US Capitol. It is the lar
 
 Access rules to the building are actively changing due to the coronavirus pandemic and security concerns. As a result, attendees who are not Congressional staff may require escorts to enter. We will update this page with more details and instructions as we get closer to the event.
 
+The two closest metro stops are Capitol South Station (~7 min walk) and Federal Center SW (~9 min walk).
+
 <img style="float: center;" width=600 src="/docs/assets/launch_reception_map1.png">
 
 <img style="float: center;" width=600 src="/docs/assets/launch_reception_map2.png">
