@@ -4,7 +4,7 @@
 We are actively recruiting new members of the House of Representatives to the caucus. There is no membership fee or eligibility requirements, just an interest in supporting graduate student researchers! If that includes you, just contact one of the caucus co-chairs about joining:
 
 - Zoe Lofgren (D-CA)
-- Stephanie Bice (R-FL)
+- Stephanie Bice (R-OK)
 - Gus Bilirakis (R-FL)
 - Mike Doyle (D-PA)
 
