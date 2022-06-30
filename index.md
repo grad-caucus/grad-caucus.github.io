@@ -1,6 +1,6 @@
 # The GRAD Caucus
 
-<img style="float: center;" width=600 src="/docs/assets/announcement_banner.png">
+<img style="float: center;" width=1920 src="/docs/assets/announcement_banner.png">
 
 ## About the Caucus
 
