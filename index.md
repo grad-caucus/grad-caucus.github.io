@@ -1,6 +1,6 @@
 # The GRAD Caucus
 
-<img style="float: center;" width=1920 src="/docs/assets/announcement_banner.png">
+[<img style="float: center;" width=1920 src="/docs/assets/announcement_banner.png">](launch-event.md)
 
 ## About the Caucus
 
@@ -18,7 +18,7 @@ Whether you are a Congressional Representative looking to join the caucus or a g
 Members are actively joining. Full an up-to-date roster, [see here](roster.md).
 
 ## Frequently Asked Questions
-Not sure what a caucus is? Want to know what the GRAD Caucus will focus on? Check out our FAQ [here](FAQ.md). If your questions isn't answered there, reach out to us at grad-caucus-launch[at]mit.edu and we will get back to you.
+Not sure what a caucus is? Want to know what the GRAD Caucus will focus on? Check out our FAQ [here](FAQ.md). If your questions isn't answered there, reach out to us at [grad-caucus-contact@mit.edu](mailto:grad-caucus-contact@mit.edu) and we will get back to you.
 
 ## Additional Resources
 [Click here for flyers](resources.md), links to outside resources, and other information.

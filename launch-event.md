@@ -1,6 +1,7 @@
 # GRAD Caucus Launch Event
 
-The launch reception will be on July 13th, 2022 from 3pm to 5pm at Banquet Room 2060 in the [Rayburn House Office Building](https://goo.gl/maps/aM972iwiLaS4fxi56). Food and drinks will be provided. Check back for more details on location, agenda, and more.
+The launch reception will be on July 13th, 2022 from 3pm to 5pm at Banquet Room 2060 in the [Rayburn House Office Building](https://goo.gl/maps/aM972iwiLaS4fxi56). Food and drinks will be provided. All members of Congress and their staffers are welcome. If you are not in these categories, but interested in attending, please reach out to [grad-caucus-contact@mit.edu](mailto:grad-caucus-contact@mit.edu)
+
 
 ## Attire
 
