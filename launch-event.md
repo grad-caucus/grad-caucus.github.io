@@ -11,7 +11,7 @@ For those who are unfamiliar with norms of attire on the Hill, business professi
 
 The Rayburn House Office Building is just south of the US Capitol. It is the largest and most western of the House office buildings. Entrances can be found on the northern and eastern sides of the building. The reception is being held in Banquet Room 2060 which is on the ground (zeroth) floor in the southwestern corridor of the building, as indicated on the maps below.
 
-Access rules to the building are actively changing due to the coronavirus pandemic and security concerns. As a result, attendees who are not Congressional staff may require escorts to enter. We will update this page with more details and instructions as we get closer to the event.
+Access rules to the building are actively changing due to the coronavirus pandemic and security concerns. As a result, attendees who are not Congressional staff will require escorts to enter. Those who have RSVPd will be given instructions on when and where to gather. If you RSVPd and have not received such instructions, please reach out to us at [grad-caucus-contact@mit.edu](mailto:grad-caucus-contact@mit.edu) as soon as possible.
 
 The two closest metro stops are Capitol South Station (~7 min walk) and Federal Center SW (~9 min walk).
 
