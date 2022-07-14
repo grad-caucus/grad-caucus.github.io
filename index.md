@@ -11,9 +11,6 @@ The GRAD Caucus is co-chaired by Rep. Mike Doyle (PA-18), Rep. Gus Bilirakis (FL
 ## News & Updates
 Curious about what the GRAD Caucus has been up to recently or see announcements of upcoming events? [Read about caucus news and updates here.](news-and-updates.md)
 
-## Launch Event
-The GRAD Caucus Launch Event will be on July 13, 2022 from 3-5pm at Banquet Room 2060 of the Rayburn House Office Building on the Hill and will feature short remarks from our co-chairs and graduate leaders followed by a catered reception. For more information, [see here](launch-event.md).
-
 ## A Call to Action
 Whether you are a Congressional Representative looking to join the caucus or a graduate student interesting in how you can support the caucus, we can use your help. For more information on how to get involved and make an impact, [see here](how-to-get-involved.md). You can also keep up to date with our activities by [joining our mailing list](https://mailman.mit.edu/mailman/listinfo/grad-caucus-updates).
 
