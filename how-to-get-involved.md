@@ -17,4 +17,4 @@ In order to support graduate student researchers, we need involvement from gradu
 The most compelling reason for a member of Congress to join the GRAD Caucus is if they know that it matters to their constituents, so the most important thing anyone can do currently to help support the GRAD Caucus is to urge your Representative to join the GRAD Caucus as a member. We provide resources on [how to go about doing that here](ask-your-representative).
 
 ### Participate in Planning Events & Legislative Actions
-If you are a graduate student looking to actively get involved with planning future caucus events, please reach out to us at [grad-caucus-contact@mit.edu](mailto:grad-caucus-contact@mit.edu).
+If you are a graduate student, someone who works in graduate educator, or just anyone who is looking to actively get involved with planning future caucus events, you can join [our mailing list here](https://mailman.mit.edu/mailman/listinfo/grad-caucus-updates).
